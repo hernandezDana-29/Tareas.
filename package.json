@@ -4,7 +4,7 @@
   "description": "��#\u0000 \u0000T\u0000a\u0000r\u0000e\u0000a\u0000s\u0000.\u0000\r\u0000 \u0000",
   "main": "server.js",
   "scripts": {
-      "dev": "node --watch server.js",
+    "dev": "node --watch server.js",
     "start": "node server.js"
   },
   "repository": {
@@ -17,10 +17,9 @@
     "url": "https://github.com/hernandezDana-29/Tareas./issues"
   },
   "homepage": "https://github.com/hernandezDana-29/Tareas.#readme",
-   "type": "module",
-     "dependencies": {
+  "type": "module",
+  "dependencies": {
     "express": "^5.3.0",
     "nodemon": "^3.1.14"
   }
 }
-  
